@@ -5,3 +5,5 @@ Task was to find best time and place to ski in Winter 2026 given Visitation data
 Notebook contains:
 - Exploratory Data Analysis (EDA) of visitation data
 - Random Forest + Exponential Smoothing Models to predict visitation across all ski locations
+
+The visitation and weather datasets are also given in the repo.
